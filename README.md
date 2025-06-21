@@ -1,5 +1,7 @@
 # Text Sentiment Labeling with LabelStudio
 
+https://github.com/user-attachments/assets/6e3f7f5e-fd9e-486a-ba73-87eede8cf7f8
+
 This project presents a complete pipeline for annotating product reviews with sentiment labels (`Positive`, `Neutral`, `Negative`) using **Label Studio**. It includes manual labeling and exploratory data analysis (EDA) on the annotated dataset.
 
 The main objectives of this project are to:
