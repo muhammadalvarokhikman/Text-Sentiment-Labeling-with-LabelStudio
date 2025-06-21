@@ -24,7 +24,7 @@ There are two datasets used:
 | `rating`            | Original app rating (1 to 5 stars)       |
 | `sentiment`         | Manual label: `Positive`, `Neutral`, `Negative` |
 
-## 🏷️ Annotation Process
+## Annotation Process
 
 - Annotation tool: **Label Studio** (deployed using Docker)
 - Task type: Single-label classification (`sentiment`) for each review
@@ -51,21 +51,21 @@ There are two datasets used:
 
 Notebook: `about_data.ipynb`
 
-### 🔸 Sentiment Distribution:
+### Sentiment Distribution:
 ![download](https://github.com/user-attachments/assets/0bb6caaa-f678-4dfe-80d9-d2bb49931c7e)
 
 - Negative: 38
 - Positive: 32
 - Neutral: 30
 
-### 🔸 Review Length Insights:
+### Review Length Insights:
 ![download (1)](https://github.com/user-attachments/assets/112a7b7e-2fa5-4881-ba49-c0849571be8a)
 
 - Neutral reviews are generally longer and descriptive
 - Negative reviews tend to be short and direct
 - Outliers exist in all categories with long reviews
 
-### 🔸 WordCloud Observations:
+### WordCloud Observations:
 ![download (2)](https://github.com/user-attachments/assets/8e4c5b3d-ee28-4891-8038-ab914d8de6c0)
 
 - `Positive`: Praise, satisfaction, or appreciation
